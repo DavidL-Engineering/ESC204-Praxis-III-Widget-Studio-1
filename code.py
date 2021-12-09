@@ -1,3 +1,5 @@
+### Written by David L. for ESC204 - Praxis III in the Division of Engineering Science at the University of Toronto
+
 import board
 import digitalio
 
